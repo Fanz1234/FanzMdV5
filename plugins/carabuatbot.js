@@ -1,6 +1,6 @@
 let fs = require('fs')
 let handler = async (m, { conn }) => {
-let jarot = 'https://telegra.ph/file/947607f0d10667f4f8e0f.jpg'
+let jarot = 'https://telegra.ph/file/e83ba3c272120b6b3ed05.jpg'
 let os = `┌─── 〔 TUTORIAL JADIBOT 〕 ───
 ✘.SILAHKAN KE BERANDA WHATSAPP 
 ✘.CARI TULISAN PERANGKAT TAUTAN 
@@ -14,7 +14,7 @@ let os = `┌─── 〔 TUTORIAL JADIBOT 〕 ───
 ❍ TUTOR DAPETIN KODE QR ❍
 
 ✘.JOIN GROUP BOT
-https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG
+✘.Belum Buat
 ✘.JANGAN LUPA TAG OWNER
 ✘.BIAR DI ACC KALO UDAH DI ACC
 ✘.KETIK .jadibot DI NOMER BOT INI
