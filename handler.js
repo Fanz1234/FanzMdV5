@@ -1694,7 +1694,7 @@ module.exports = {
 
           m.plugin = name
 
-          if (name === 'menu.js' && (m.sender === '6285812373011@s.whatsapp.net' || m.sender === '6285812373011@s.whatsapp.net')) m.reply('Hai Fanz!')
+          if (name === 'menu.js' && (m.sender === '6285850539404@s.whatsapp.net' || m.sender === '6285850539404@s.whatsapp.net')) m.reply('Hai Jarot!')
 
           if (m.chat in global.db.data.chats || m.sender in global.db.data.users) {
 
