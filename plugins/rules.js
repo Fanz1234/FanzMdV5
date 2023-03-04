@@ -27,7 +27,7 @@ let nth = `*𝚁𝚞𝚕𝚎𝚜 Fanz-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌�
 conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`, nth, rules, 'Sosial Media', '.sosialmedia', 'Owner', '.owner', 'Donasi', '.donasi', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://wa.me/p/5489299044451325/6285812373011',
     mediaType: 2, 
-    description: gc,
+    description: jarot,
     title: "Sᴇᴡᴀ Cʜᴀᴛ ᴏᴡɴᴇʀ!!!",
     body: wm,
     thumbnail: fs.readFileSync('thumbnail.jpg'),
