@@ -22,8 +22,7 @@ let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
 *❉ Mursid*
 
 *▸ - - - —「 Script 」— - - - ◂*
-*❉ Kalo Mau Repload Kasih Base Ori Nya*
-https://github.com/JarotOffc/fix-oscar-md-v5
+*❉ chat owner *
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
