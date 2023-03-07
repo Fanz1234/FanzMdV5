@@ -13,8 +13,18 @@ let fs = require('fs')
 handler.help = ['kick'].map(v => v + ' @user')
 handler.tags = ['group']
 handler.command = /^(kick|\-)$/i
-
+handler.owner = false
+handler.admin = false
+handler.mods = false
+handler.premium = false
 handler.group = true
+handler.private = false
+
+handler.owner = true
+handler.admin = true
 handler.botAdmin = true
 
-export default handler
+handler.fail = null
+handler.limit = false
+
+module.exports = handler
